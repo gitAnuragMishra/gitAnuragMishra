@@ -1,4 +1,5 @@
-# Hi there, I'm Anurag Mishra DS | ML | DL | Music | Gate'24!
+# Hi there, I'm Anurag Mishra 
+# DS | ML | DL | Music | Gate'24!
 
 # About Me
 🎓 I am a Data Science and Machine Learning enthusiast based in Bhubaneswar, Odisha.  
