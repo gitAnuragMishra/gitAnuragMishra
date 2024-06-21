@@ -8,17 +8,12 @@
 # Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda)
-
 
 # GitHub Stats
 
