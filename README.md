@@ -15,9 +15,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda)
 
-# GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitAnuragMishra&show_icons=true&hide_border=true&theme=radical)
 
 # Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/anurag-mishra-b80968213/)
